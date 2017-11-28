@@ -16,6 +16,9 @@ public class Ejemplo {
          System.out.println("Programador 2-----Editando Prueba");
          System.out.println("Prueba001 ");
          System.out.println("28/11/2017");
+         ////////////////////////////////////////////////
+         System.out.println("Programador Uno edito");
+         ////////////////////////////////////////////
     }
     
 }
