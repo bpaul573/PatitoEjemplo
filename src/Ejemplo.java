@@ -19,6 +19,7 @@ public class Ejemplo {
          ////////////////////////////////////////////////
          System.out.println("Programador Uno edito");
          ////////////////////////////////////////////
+         System.out.println("Programador Dos edito");
     }
     
 }
